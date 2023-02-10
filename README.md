@@ -9,8 +9,11 @@ I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and inf
  
  I am open to learning new things and getting involved in new projects that can help me learn or apply everything i have learned throughout my university career.
 </div>
+
 - 🌱 I’m currently learning Machine learning and deep learning
+
 -  📫 How to reach me: yasminesmida99@gmail.com
+
 - 📄 Know about my experiences [yasmine's Resume](https://app.luminpdf.com/viewer/63e64c49e5dc89867d4e1152)
 
 
