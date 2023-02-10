@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Machine learning and deep learning
+- - 📫 How to reach me: @yasminesmida99@gmail.com
 
 <!--
 **yasmine01545/yasmine01545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
