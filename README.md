@@ -2,9 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+### :woman_technologist: About Me :
 <div id="header" align="center">
   
-### :woman_technologist: About Me :
+
 I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and information technology.
 
  I am interested in the  Robotics /AI / IOT  and embedded systems.
