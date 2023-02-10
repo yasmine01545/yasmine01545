@@ -7,6 +7,8 @@ I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and inf
 
 - 🌱 I’m currently learning Machine learning and deep learning
 -  📫 How to reach me: yasminesmida99@gmail.com
+-  - 📄 Know about my experiences [https://app.luminpdf.com/viewer/63e64c49e5dc89867d4e1152](https://app.luminpdf.com/viewer/63e64c49e5dc89867d4e1152)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
