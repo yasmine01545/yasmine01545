@@ -9,7 +9,7 @@
 
 I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and information technology.
 
- I am interested in the *Robotics /*AI / *IOT  and embedded systems.
+ I am interested in the *Robotics* /*AI* / *IOT*  and embedded systems.
  
  I am open to learning new things and getting involved in new projects that can help me learn or apply everything i have learned throughout my university career.
 </div>
