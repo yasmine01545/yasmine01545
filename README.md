@@ -10,6 +10,7 @@ I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and inf
 
 ## languages and tools
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,css,git,html,js,py,androidstudio,arduino,bootstrap,flask,linux,php,raspberrypi,stackoverflow,tensorflow,visualstudio,vscode,opencv&theme=light)](https://skills.thijs.gg)
+https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
 
 <!--
 **yasmine01545/yasmine01545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
