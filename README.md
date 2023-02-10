@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 <div id="header" align="center">
   
 
