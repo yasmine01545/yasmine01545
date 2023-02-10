@@ -22,6 +22,8 @@ I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and inf
 
 -  📫 How to reach me: yasminesmida99@gmail.com
 
+-  💻 I love exploring new tech building technology that help people.
+
 - 📄 Know about my experiences [yasmine's Resume](https://app.luminpdf.com/viewer/63e64c49e5dc89867d4e1152)
 
 
