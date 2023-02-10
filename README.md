@@ -1,6 +1,6 @@
-<div id="header" align="center">
+
 ### Hi there 👋 I'm Yasmine
-  </div>
+  
   
 -------------------------------------------------------------------------------------
 <div id="header" align="center">
