@@ -9,7 +9,7 @@ I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and inf
 -  📫 How to reach me: yasminesmida99@gmail.com
 
 ## languages and tools
-[![My Skills](https://skills.thijs.gg/icons?i=java,c&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,css,git,html,js,py,opencv&theme=light)](https://skills.thijs.gg)
 
 <!--
 **yasmine01545/yasmine01545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
