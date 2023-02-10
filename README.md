@@ -7,7 +7,6 @@ I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and inf
 
 - 🌱 I’m currently learning Machine learning and deep learning
 -  📫 How to reach me: yasminesmida99@gmail.com
--  📄 Know about my experiences [file:///C:/Users/msi/Downloads/CV_yasmineSmida_EN.pdf](file:///C:/Users/msi/Downloads/CV_yasmineSmida_EN.pdf)
 
 ## languages and tools
 [![My Skills](https://skills.thijs.gg/icons?i=java,git,html,androidstudio,arduino,bootstrap,flask,linux,php,raspberrypi,stackoverflow,visualstudio,vscode,&theme=light)](https://skills.thijs.gg)
