@@ -20,11 +20,11 @@ I'm Yasmine SMIDA from Tunisia,I have a passion for computer programming and inf
 
 - 🌱 I’m currently learning Machine learning and deep learning
 
--  📫 How to reach me: yasminesmida99@gmail.com
+-  📫 How to reach me: yasmine.enetcom@gmail.com
 
 -  💻 I love exploring new tech building technology that help people.
 
-- 📄 Know about my experiences [yasmine's Resume](https://app.luminpdf.com/viewer/63e64c49e5dc89867d4e1152)
+- 📄 Know about my experiences [yasmine's Resume](https://app.luminpdf.com/viewer/654365774c8f40f30ca6ecfa)
 
 
 
